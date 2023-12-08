@@ -35,7 +35,7 @@ e-posta: admin@gmail.com
 ![Screenshot_20231208_175958](https://github.com/atalhatabak/Simple-Commerce/assets/56918326/636f936d-6ae7-4436-82a6-b5c7d14101aa)
 Login ekranı, herhangi bir işlem için zorunlu
 ![Screenshot_20231208_180041](https://github.com/atalhatabak/Simple-Commerce/assets/56918326/13e48c7b-0a56-4287-a9c6-73bf1716cbd6)
-Ana sayfa ürünler sayfası, ürünler marka ve türüne göre bağlantı var ve bu bağlantı ile filtreleme yapılabiliyor
+Ana sayfa ürünler sayfası, ürünlerin marka ve türüne göre bağlantı var ve bu bağlantı ile filtreleme yapılabiliyor
 ![Screenshot_20231208_180142](https://github.com/atalhatabak/Simple-Commerce/assets/56918326/8c75e1d1-8b95-4abc-a623-4dce3ada278c)
 Türüne Göre
 ![Screenshot_20231208_180150](https://github.com/atalhatabak/Simple-Commerce/assets/56918326/49aa260c-153e-40b4-90b0-a3796f68cdd4)
