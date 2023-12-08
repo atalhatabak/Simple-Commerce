@@ -20,11 +20,17 @@ extension=pdo_sqlite
 satırının başındaki yorum satırı ibaresini kaldırın
 
 Proje Hakkında
+
 Admin panel linki /admin
+
 giriş için admin yetkisine sahip kullanıcının giriş yapmış olması gerekiyor
+
 Kullanıcı Bilgileri
+
 e-posta: admin@gmail.com
+
 şifre: testtest
+
 
 ![Screenshot_20231208_175958](https://github.com/atalhatabak/Simple-Commerce/assets/56918326/636f936d-6ae7-4436-82a6-b5c7d14101aa)
 Login ekranı, herhangi bir işlem için zorunlu
