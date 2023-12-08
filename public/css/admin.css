@@ -1,0 +1,97 @@
+
+body{
+    background:#202124;
+    color:white;
+    display:flex;
+} 
+a{
+    color:white;
+    text-decoration: none;
+
+}
+aside{
+    width:20%;
+    height:100%;
+    position:fixed;
+    left:0px;
+    top:0px;
+    border-right:solid 2px white;
+    /*filter: blur(3px);*/
+    padding:30px;
+
+}
+
+section{
+    width:60%;
+    height:100%;
+    position:absolute;
+    left:30%;
+    top:0px;
+    padding:30px;
+
+}
+
+.items{
+    width:100%;
+    height:50px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin-top:20px;
+    border-left:solid 2px white;
+    border-right:solid 2px white;
+    font-size:22px;
+}
+.items:hover{
+    background:white;
+    transition: 2s;
+    color:black;
+}
+
+.itemThis{
+    width:100%;
+    height:50px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin-top:20px;
+    border-left:solid 2px white;
+    border-right:solid 2px white;
+    font-size:22px;
+    background:white;
+    color:black;
+    opacity:0.4;
+}
+
+.ekleForm{
+    width:80%;
+    
+}
+
+input{
+    width:90%;
+    height:50px;
+    border:none;
+    margin-top:20px;
+    border-left:solid 2px white;
+    border-right:solid 2px white;
+    background:#1E1E1E;
+    color:white;
+}
+
+
+
+
+.urunListele{
+    width:80%;
+    text-align:center;
+    overflow:scroll;
+}
+
+td{
+    height:40px;
+}
+
+.urunPhoto{
+    height:60px;
+}
