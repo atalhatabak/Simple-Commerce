@@ -14,6 +14,10 @@ Bağımlılıklar;
 
 Composer, Npm, Php
 
+bu dizinde php artisan serve komutu ile server başlatılabilir
+
+ayrıca farklı bir terminal penceresinden npm run dev komutu frontend serveri başlatınız
+
 Not: Veritabanı olarak sqlite kullanılıyor ve dabase klasörü içerisinde Database.sqlite olarak depolanıyor
 Php sqlite eklentisini aktif hale getirmek için php.ini içerisindeki 
 extension=pdo_sqlite 
