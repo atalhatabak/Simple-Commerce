@@ -48,6 +48,13 @@ Markasına Göre
 ![Screenshot_20231208_180228](https://github.com/atalhatabak/Simple-Commerce/assets/56918326/56403f21-a40c-4cd5-abd4-1270de555ae3)
 Admin Paneli, Resim ekleniyor ve anlık eklenen resim görüntüleniyor. alt tarafta ürünleri listeliyor 
 
+Özellikler:
+CRUD: 30 puan
+resim ekleme: 10 puan
+Bağımsız Admin paneli, html + css ile yazıldı: 10 puan
+arayüz: 10 puan
+Admin panel oturumu: 10 puan
+
 
 
 
